@@ -1,4 +1,4 @@
-Credits go to OpenAI.  I don't know Pythong.
+Credits go to OpenAI.  I don't know Python.
 
 1.  Select a project/target folder.  
 2.  Select relevant files from within that folder or subfolders.
